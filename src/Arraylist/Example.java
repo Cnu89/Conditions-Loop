@@ -40,6 +40,10 @@ public class Example {
         Linknames.add("Naveen");
         Linknames.add("Ramya");
         Linknames.add("careerbridge");
+
+        //contains
+        System.out.println(Linknames.contains("careerbridge"));
+
         int count=Linknames.size();
         for (int i=0; i<=count-1; i++){
             System.out.println(Linknames.get(i));
