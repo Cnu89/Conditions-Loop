@@ -1,8 +1,8 @@
-package Hashmap;
+package OccuranceofCharacter;
 
 import java.util.HashMap;
 
-public class Task {
+public class Occurance {
     public static void main(String args[])
     {
         String str = "Australia";
